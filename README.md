@@ -16,7 +16,7 @@ And then execute:
 
 ## Usage
 
-Add $ inverse_of to model with has_many. Then add the following to your model:
+Add inverse_of to model with has_many. Then add the following to your model:
 
     $ validates :my_model_item, dynamic_uniqueness: { parent_association: :parent_model, child_association: :model_item }
 
