@@ -1,3 +1,5 @@
+https://travis-ci.org/Platinet/dynamic_uniqueness_validator.svg?branch=master
+
 # DynamicUniquenessValidator
 
 Adds the ability to validate two fields at the same time. For an intermediate table with many-to-many association
