@@ -1,6 +1,7 @@
 # DynamicUniquenessValidator
 [![Build Status](https://travis-ci.org/Platinet/dynamic_uniqueness_validator.svg?branch=master)](https://travis-ci.org/Platinet/dynamic_uniqueness_validator)
 [![Code Climate](https://codeclimate.com/github/codeclimate/codeclimate/badges/gpa.svg)](https://codeclimate.com/github/Platinet/dynamic_uniqueness_validator)
+[![Test Coverage](https://codeclimate.com/github/codeclimate/codeclimate/badges/coverage.svg)](https://codeclimate.com/github/Platinet/dynamic_uniqueness_validator)
 
 Adds the ability to validate two fields at the same time. For an intermediate table with many-to-many association
 
